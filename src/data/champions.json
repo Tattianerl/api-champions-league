@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Vinicius Junior",
+    "club": "Brasil",
+    "nationality": "Brasil",
+    "position": "Atacante",
+    "stats": {
+      "gols": 5,
+      "assistencias": 4,
+      "partidas": 9
+    }
+  },
+  {
+    "id": 2,
+    "name": "Kylian Mbappé",
+    "club": "França",
+    "nationality": "França",
+    "position": "Atacante",
+    "stats": {
+      "gols": 12,
+      "assistencias": 3,
+      "partidas": 14
+    }
+  },
+  {
+    "id": 3,
+    "name": "Lionel Messi",
+    "club": "Argentina",
+    "nationality": "Argentina",
+    "position": "Meio-Campista",
+    "stats": {
+      "gols": 13,
+      "assistencias": 8,
+      "partidas": 26
+    }
+  },
+  {
+    "id": 4,
+    "name": "Jude Bellingham",
+    "club": "Inglaterra",
+    "nationality": "Inglaterra",
+    "position": "Meio-Campista",
+    "stats": {
+      "gols": 3,
+      "assistencias": 3,
+      "partidas": 10
+    }
+  },
+  {
+    "id": 5,
+    "name": "Jamal Musiala",
+    "club": "Alemanha",
+    "nationality": "Alemanha",
+    "position": "Meio-Campista",
+    "stats": {
+      "gols": 4,
+      "assistencias": 2,
+      "partidas": 8
+    }
+  },
+  {
+    "id": 6,
+    "name": "Kevin De Bruyne",
+    "club": "Bélgica",
+    "nationality": "Bélgica",
+    "position": "Meio-Campista",
+    "stats": {
+      "gols": 3,
+      "assistencias": 5,
+      "partidas": 12
+    }
+  },
+  {
+    "id": 7,
+    "name": "Lamine Yamal",
+    "club": "Espanha",
+    "nationality": "Espanha",
+    "position": "Atacante",
+    "stats": {
+      "gols": 2,
+      "assistencias": 4,
+      "partidas": 7
+    }
+  },
+  {
+    "id": 8,
+    "name": "Federico Valverde",
+    "club": "Uruguai",
+    "nationality": "Uruguai",
+    "position": "Meio-Campista",
+    "stats": {
+      "gols": 2,
+      "assistencias": 2,
+      "partidas": 9
+    }
+  },
+  {
+    "id": 9,
+    "name": "Cristiano Ronaldo",
+    "club": "Portugal",
+    "nationality": "Portugal",
+    "position": "Centroavante",
+    "stats": {
+      "gols": 8,
+      "assistencias": 2,
+      "partidas": 22
+    }
+  },
+  {
+    "id": 10,
+    "name": "Lautaro Martínez",
+    "club": "Argentina",
+    "nationality": "Argentina",
+    "position": "Centroavante",
+    "stats": {
+      "gols": 4,
+      "assistencias": 1,
+      "partidas": 11
+    }
+  }
+]
