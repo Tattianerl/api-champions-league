@@ -1,8 +1,7 @@
 # ⚽ ChampionsLeague API - CRUD de Elite com Express & TypeScript
 
 A **ChampionsLeague API** é um backend completo desenvolvido com o ecossistema do **Express** e **TypeScript**, simulando um painel de controle estatístico da Champions League adaptado para o ritmo intenso de uma Copa do Mundo.
-
-Este projeto foi construído para cumprir o desafio prático de Node.js da **DIO (Digital Innovation One)**. Ele demonstra o domínio do desenvolvimento de uma API RESTful com suporte a operações completas de persistência de dados local (I/O assíncrono), arquitetura de software dividida em responsabilidades e separação estrutural entre a inicialização (`server.ts`) e as configurações da aplicação (`app.ts`).
+Ele demonstra o domínio do desenvolvimento de uma API RESTful com suporte a operações completas de persistência de dados local (I/O assíncrono), arquitetura de software dividida em responsabilidades e separação estrutural entre a inicialização (`server.ts`) e as configurações da aplicação (`app.ts`).
 
 ---
 
